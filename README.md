@@ -71,7 +71,7 @@ Once you become competent in mounting, you may find it unnecessary to always be 
 
 If the mounting is particularly complex, or you need to complete a risk assessment as part of the provision, or carry out a stability test of driving assessment, we would recommend you use the complete form in place of the document summary.
 
-## SECTION 1 - Pre Assessment Information
+## Section 1 - Pre Assessment Information
 
 This section can be used to gather information before considering the type of solutions you might like to provide. It is always worthwhile at this stage to take or obtain some photographs of any wheelbases that are being considered, in particular with the proposed device in the approximate position in which it is likely to be used.
 
@@ -81,7 +81,7 @@ It is useful to ask about the environment so a mounting solution can be provided
 
 You can start to make some initial decision in this section which will be looked at in more detail later on.
 
-## SECTION 2 – WHEELBASE INFORMATION
+## Section 2 – Wheelbase Information
 
 It is likely that mounting to at least one wheelchair will be required. It is important to ensure that the sum of the weight of the equipment you are planning to mount, the equipment that has already been attached to the wheelchair (such as a special seating unit), and the user’s own weight falls within the weight limit of the chair.
 
@@ -89,7 +89,7 @@ If we are attaching and switch or a light device such as an iPad onto a powercha
 
 Use this section to note all the relevant information on the wheelbases you may wish to mount to. This information should normally be on labels on the chair, one from the manufacturer, and often one from the service or organisation that supplied the base.
  
-## SECTION 3.1 – FEASIBILITY OF WHEELCHAIR MOUNT
+## Section 3.1 – Feasibility of Wheelchair Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
  
@@ -101,7 +101,7 @@ You can use the decision tree below to help you establish if you should proceed 
  
 You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
  
-## SECTION 3.3 – FEASIBILITY OF FLOOR MOUNT
+## Section 3.3 – Feasibility of Floor Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
  
@@ -109,13 +109,13 @@ You should be careful to ensure that all the factors listed have been considered
 
 Floor mounts can be surprisingly challenging to get right. Space can be an real issue in some environments, especially when a large device may imply a large floor stand. Moving a floor stand can be difficult, and they can create trip hazards especially for the very young or very old if not managed well.
 
-##SECTION 3.3 – FEASIBILITY OF BESPOKE/HYBRID MOUNT
+## Section 3.3 – Feasibility of Bespoke/Hybrid Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
  
 You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
-## SECTION 4 – WHEELBASE STABILITY ASSESSMENT
+## Section 4 – Wheelbase Stability Assessment
 
 We’ve provided this assessment to help guide your decision-making around static stability testing. It should be considered definitive, you may disagree with some of the assumptions or want to change the scoring. It can be useful as it is though, to help identify situations of risk which you may wish to investigate further.
 
@@ -150,17 +150,17 @@ The least stable conditions can occur when:
 - accelerating from a standstill uphill
 - navigating obstacles such as ramps or kerbs
 
-##SECTION 5 – WHEELCHAIR STATIC STABILITY TEST RESULTS
+## Section 5 – Wheelchair Static Stability Test Results
 
 Should you or the local wheelchair service decide that a static stability test is useful, you can record the results in this section. You may choose to complete several test to investigate various circumstances, or look at how the location of the device is affecting stability with high risk configurations. In that case, use several sheets if you need to in order to record all the results.
 
-## SECTION 6 – DRVING ASSESSMENT
+## Section 6 – Driving Assessment
 
 A driving assessment may be useful if you have concerns about the user’s ability to navigate their environment. It could be more challenging once the assistive technology has been mounted to the wheelchair. Look for signs on the wheelchair for damage, particularly at the extremities (sides of armrests, castor forks or housings, footplates) – these can be an indicator that navigation is tight or tricky somewhere – find out where the issue is.
 
 If you feel a driving assessment is necessary, this section of the form will help you identify any issues. You could also use it to identify the impact adding the assistive technology has had on driving or driving accuracy. It may lead you to consider a mount with two mounting positions, or a mount that can be folded out of the way.
 
-## SECTION 7 – RISK MANAGEMENT
+## Section 7 – Risk Management
 
 This section can be used to help you quickly identify risks and hazards and to document them, and provide a process for more detailed risk management.
 
@@ -172,7 +172,7 @@ The Risk Analysis part of the process allows you to note all the risk identified
 
 You can choose to use one of the example Risk Matrices provided. Use this, and the terminology definitions to determine what course of action to take.
 
-## SECTION 8 – SAFETY AND HANDOVER INFORMATION
+## Section 8 – Safety and Handover Information
 
 It is important to ensure the client is fully aware of how to operate any equipment you provide, and in particular any important safety issues.
 
@@ -184,6 +184,6 @@ You may also find it useful to provide information that is relevant to the parti
 
 The remainder of this section can be changed to suit you and your service needs, based on the policies of your organisation.
 
-## ACKNOWLEDGEMENTS
+## Acknowledgements
 
 
