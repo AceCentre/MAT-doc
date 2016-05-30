@@ -22,7 +22,7 @@ Within these notes we have explained the sections in the documentation itself so
 
 Above all, please remember that these guidelines are intended to promote and facilitate independence and participation and not as a mechanism to find barriers to provision of equipment.
 
-##BEST PRACTICE GUIDELINES
+## Best Practce Guidelines
 
 When mounting assistive technology:
 
@@ -54,7 +54,7 @@ When mounting assistive technology:
 9.	Use commercially available products where possible and bespoke solutions when necessary
 	* Try to use off the shelf products where possible but consider bespoke solutions or modifying existing products where they will improve the product. Commercially available products should have been through some level of testing and make have been on the market for some time. They will have developed a history and may be more reliable than bespoke solutions. They are also typically quicker to get into use. Don’t rule out bespoke solutions if it provides a better result for the client. Keep it simple and remember efficiency. Follow manufacturers guidelines where possible.
  
-##Using the Document
+## Using the Document
 
 The main document MAT-DOC is available as a Microsoft® Word Document which can be completed on your computer, or printed and filled in manually. Some fields in the document properties have been used so you will only need to enter the information once, and the relevant parts of the document will be completed automatically.
 
@@ -65,7 +65,7 @@ We recommend that you avoid using any client identifiable information in the doc
 The document has been produced with a grey background which will not be shown when you print the document. This enables the areas that need to be completed to be easier to see. The areas that need completing are shown in white.
 to automatically fill in parts of the document
  
-##Summary Sheet
+## Summary Sheet
 
 Once you become competent in mounting, you may find it unnecessary to always be referring to the complete documentation. We have produced a summary sheet that enables you to record the important information and you have considered all relevant factors. You can use the main document as reference, but complete the summary form once you are comfortable with the full contents.
 
