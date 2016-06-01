@@ -4,23 +4,23 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Mounting Assistive Technology Documentation (MAT-doc)](#mounting-assistive-technology-documentation-mat-doc)
-  - [Introduction](#introduction)
-  - [Best Practce Guidelines](#best-practce-guidelines)
-  - [Using the Document](#using-the-document)
-  - [Summary Sheet](#summary-sheet)
-  - [Section 1 - Pre Assessment Information](#section-1---pre-assessment-information)
-  - [Section 2 – Wheelbase Information](#section-2-%E2%80%93-wheelbase-information)
+- [Introduction](#introduction)
+- [Best Practce Guidelines](#best-practce-guidelines)
+- [Using the Document](#using-the-document)
+- [Summary Sheet](#summary-sheet)
+- [Section 1 - Pre Assessment Information](#section-1---pre-assessment-information)
+- [Section 2 – Wheelbase Information](#section-2-%E2%80%93-wheelbase-information)
+- [Section 3](#section-3)
   - [Section 3.1 – Feasibility of Wheelchair Mount](#section-31-%E2%80%93-feasibility-of-wheelchair-mount)
   - [SECTION 3.2 – FEASIBILITY OF DESK/TABLE MOUNT](#section-32-%E2%80%93-feasibility-of-desktable-mount)
   - [Section 3.3 – Feasibility of Floor Mount](#section-33-%E2%80%93-feasibility-of-floor-mount)
   - [Section 3.3 – Feasibility of Bespoke/Hybrid Mount](#section-33-%E2%80%93-feasibility-of-bespokehybrid-mount)
-  - [Section 4 – Wheelbase Stability Assessment](#section-4-%E2%80%93-wheelbase-stability-assessment)
-  - [Section 5 – Wheelchair Static Stability Test Results](#section-5-%E2%80%93-wheelchair-static-stability-test-results)
-  - [Section 6 – Driving Assessment](#section-6-%E2%80%93-driving-assessment)
-  - [Section 7 – Risk Management](#section-7-%E2%80%93-risk-management)
-  - [Section 8 – Safety and Handover Information](#section-8-%E2%80%93-safety-and-handover-information)
-  - [Acknowledgements](#acknowledgements)
+- [Section 4 – Wheelbase Stability Assessment](#section-4-%E2%80%93-wheelbase-stability-assessment)
+- [Section 5 – Wheelchair Static Stability Test Results](#section-5-%E2%80%93-wheelchair-static-stability-test-results)
+- [Section 6 – Driving Assessment](#section-6-%E2%80%93-driving-assessment)
+- [Section 7 – Risk Management](#section-7-%E2%80%93-risk-management)
+- [Section 8 – Safety and Handover Information](#section-8-%E2%80%93-safety-and-handover-information)
+- [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -111,20 +111,20 @@ It is likely that mounting to at least one wheelchair will be required. It is im
 If we are attaching and switch or a light device such as an iPad onto a powerchair, it has little impact on stability. If we are attaching a large eye gaze at nearly 4kg in front of the user that has a bigger impact. Some AAC devices are becoming smaller and may be positioned close to the user, others are getting larger and need positioning further away from the user. They may be higher risk.
 
 Use this section to note all the relevant information on the wheelbases you may wish to mount to. This information should normally be on labels on the chair, one from the manufacturer, and often one from the service or organisation that supplied the base.
-
-## Section 3.1 – Feasibility of Wheelchair Mount
-
-You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
-
-You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
-
-## SECTION 3.2 – FEASIBILITY OF DESK/TABLE MOUNT
+## Section 3
+### Section 3.1 – Feasibility of Wheelchair Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
 You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
-## Section 3.3 – Feasibility of Floor Mount
+### SECTION 3.2 – FEASIBILITY OF DESK/TABLE MOUNT
+
+You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
+
+You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
+
+### Section 3.3 – Feasibility of Floor Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
@@ -132,7 +132,7 @@ You should be careful to ensure that all the factors listed have been considered
 
 Floor mounts can be surprisingly challenging to get right. Space can be an real issue in some environments, especially when a large device may imply a large floor stand. Moving a floor stand can be difficult, and they can create trip hazards especially for the very young or very old if not managed well.
 
-## Section 3.3 – Feasibility of Bespoke/Hybrid Mount
+### Section 3.3 – Feasibility of Bespoke/Hybrid Mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
