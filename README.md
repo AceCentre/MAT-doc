@@ -5,14 +5,14 @@
 **Table of Contents**
 
 - [Introduction](#introduction)
-- [Best Practce Guidelines](#best-practce-guidelines)
+- [Best Practice Guidelines](#best-practice-guidelines)
 - [Using the Document](#using-the-document)
 - [Summary Sheet](#summary-sheet)
 - [Section 1 - Pre Assessment Information](#section-1---pre-assessment-information)
 - [Section 2 – Wheelbase Information](#section-2-%E2%80%93-wheelbase-information)
 - [Section 3](#section-3)
   - [Section 3.1 – Feasibility of Wheelchair Mount](#section-31-%E2%80%93-feasibility-of-wheelchair-mount)
-  - [SECTION 3.2 – FEASIBILITY OF DESK/TABLE MOUNT](#section-32-%E2%80%93-feasibility-of-desktable-mount)
+  - [Section 3.2 – Feasibility of desk/table mount](#section-32-%E2%80%93-feasibility-of-desktable-mount)
   - [Section 3.3 – Feasibility of Floor Mount](#section-33-%E2%80%93-feasibility-of-floor-mount)
   - [Section 3.3 – Feasibility of Bespoke/Hybrid Mount](#section-33-%E2%80%93-feasibility-of-bespokehybrid-mount)
 - [Section 4 – Wheelbase Stability Assessment](#section-4-%E2%80%93-wheelbase-stability-assessment)
@@ -45,7 +45,7 @@ Within these notes we have explained the sections in the documentation itself so
 
 Above all, please remember that these guidelines are intended to promote and facilitate independence and participation and not as a mechanism to find barriers to provision of equipment.
 
-## Best Practce Guidelines
+## Best Practice Guidelines
 
 When mounting assistive technology:
 
@@ -118,7 +118,7 @@ You can use the decision tree below to help you establish if you should proceed 
 
 You should be careful to ensure that all the factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
-### SECTION 3.2 – FEASIBILITY OF DESK/TABLE MOUNT
+### Section 3.2 – Feasibility of desk/table mount
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
