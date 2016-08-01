@@ -8,7 +8,9 @@ This is a final draft of the Mounting Assistive Technology Document created by t
 ## Acknowledgements
 
 - Paul Hewett (@paulhewett ([@paulhewtweet](http://twitter.com/paulhewtweet)) for editing the document and pulling it altogether
-- The WRAMP working party which consisted of :
+
+The WRAMP working party which consisted of :
+
 - Will Wade – ACE Centre, 
 - Rob Lievesley – Oxford Enablement Centre/ACE, 
 - Emilia Leech – Chailey Heritage, 
