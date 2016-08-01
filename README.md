@@ -7,7 +7,7 @@ This is a final draft of the Mounting Assistive Technology Document created by t
 
 ## Acknowledgements
 
-- Paul Hewett ([@paulhewett](http://github.com/paulhewett) ([@paulhewtweet](http://twitter.com/paulhewtweet)) for editing the document and pulling it altogether
+- Paul Hewett ([@paulhewett](http://github.com/paulhewett) ([@paulhewtweet](http://twitter.com/paulhewtweet))) for editing the document and pulling it altogether
 
 The WRAMP working party which consisted of :
 
