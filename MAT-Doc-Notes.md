@@ -133,7 +133,7 @@ You should be careful to ensure that all relevant factors listed have been consi
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
-![FloorMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/floor-mount-decision-tree.png "FloorMount")
+![DeskMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/desk-mount-decision-tree.png "DeskMount")
 
 You should be careful to ensure that all relevant factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
