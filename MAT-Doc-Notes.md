@@ -117,7 +117,7 @@ Use this section to note all the relevant information on the wheelbases you may 
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
-![ChairMount-DecisionTree](![DeskdMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/desk-mount-decision-tree.png "ChairMount")
+![ChairMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/wheelchair-mount-decision-tree.png "ChairMount")
 
 You should be careful to ensure that all relevant factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
@@ -125,7 +125,7 @@ You should be careful to ensure that all relevant factors listed have been consi
 
 You can use the decision tree below to help you establish if you should proceed with your proposed solution, or if additional investigation or risk assessment is required.
 
-![DeskdMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/desk-mount-decision-tree.png "DeskMount")
+![DeskMount-DecisionTree](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/assets/images/desk-mount-decision-tree.png "DeskMount")
 
 You should be careful to ensure that all relevant factors listed have been considered when selecting the type of mount to use, and for its location on the wheelbase.
 
