@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               MAT-Doc
-tagline:             'Mounting Assistive Technology Document'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               MAT-doc
+tagline:             'Mounting Assistive Technology Documentation'
+description:         'The Mounting Assistive Technology Documentation (MAT-DOC) helps those involved with providing assistive technology to ensure it can be used effectively in a range of environments and contexts to meet the lifestyle needs of the user.'
+url:                 http://mat-doc.org
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Paul Hewett
+  url:               https://twitter.com/paulhewtweet
+  email:             phewett@acecentre.org.uk
 
 # Custom vars
 version:             1.0.0
