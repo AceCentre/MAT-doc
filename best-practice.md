@@ -3,10 +3,6 @@ layout: page
 title: Best Practice Guidelines
 ---
 
-<p class="message">
-  These are the Best Practice Guidelines. Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
 When mounting assistive technology:
 
 1.	When selecting mounting solutions, consider all contexts in which the technology will be used.
