@@ -1,21 +1,29 @@
 # Mounting Assistive Technology Documentation (MAT-doc)
 
-This is a final draft of the Mounting Assistive Technology Document created by the WRAMP group (see Acknowledgements below). Please give your comments and feedback to wwade@acecentre.org.uk by *9th September 2016*. It is intened that a final version available for general use will be available following this. 
+The Mounting Assistive Technology Documentation (MAT-DOC) helps those involved with providing assistive technology to ensure it can be used effectively in a range of environments and contexts to meet the lifestyle needs of the user.
 
+It is designed for service providers and others who are involved with attaching one piece of assistive technology, such as a communication device (or 'communication aid') to another, such as a wheelchair. It's designed to help ensure all relevant aspects have been considered to ensure the best solution is reached.
+
+MAT-doc also includes Best Practice Guidelines which have been developed by a team of people who are all actively involved with mounting assistive technology.   
+
+The documents have been developed from the WRAMP documentation that has been in use for a number of years.
+
+This is an open source project which means we're hoping for a collaborative approach to further development! To help, [submit a new issue on GitHub](https://github.com/ACECentre/MAT-doc/issues/new)  or [tell us about it on Twitter](https://twitter.com/search?q=%23matdoc). Of course you'll need to have registered with either of those - if you're not you can just get in touch with us - see the list below of those involved.
+
+Above all, please remember that these guidelines are intended to promote and facilitate independence and participation and not as a mechanism to find barriers to provision of equipment.
 
 ## Acknowledgements
 
-- Paul Hewett ([@paulhewett](http://github.com/paulhewett) ([@paulhewtweet](http://twitter.com/paulhewtweet))) for editing the document and pulling it altogether
+The MAT-doc working party consisted of :
 
-The WRAMP working party which consisted of :
-
-- Will Wade – ACE Centre, 
-- Rob Lievesley – Oxford Enablement Centre/ACE, 
-- Emilia Leech – Chailey Heritage, 
-- Jodie Rogers – Kent and Medway CAT Service, 
-- Anne Addison – Great Ormond Street Hospital, 
-- Paul Hewett – ACE Centre, 
-- Zoli Bodnar – Treloars School, 
-- Meike Currie – Bowley close/Kings, 
-- Nellie – Dame Hannah Rogers School, 
-- Polly Wingate-Saul – Bristol PCAS
+- Will Wade – [ACE Centre](http://acecentre.org.uk) 
+- Rob Lievesley – [Oxford Centre for Enablement](http://www.ouh.nhs.uk/oce/) 
+- Emilia Leech – [Chailey Clinical Services](http://www.sussexcommunity.nhs.uk/services/servicedetails.htm?directoryID=16344) 
+- Jodie Rogers – [Kent and Medway CAT Service](http://www.kelsi.org.uk/support-for-children-and-young-people/support-for-schools/kent-and-medway-communication-and-assistive-technology-service) 
+- Anne Addison – [Great Ormond Street Hospital](http://www.gosh.nhs.uk/health-professionals/clinical-specialties/neurodisability-information-parents-and-visitors/clinics-and-services/augmentative-communication-service), 
+- Paul Hewett – [ACE Centre](http://acecentre.org.uk)  
+- Zoli Bodnar – [Treloars School](www.treloar.org.uk) 
+- Meike Currie – [Kings Rehabilitation Centre](http://www.guysandstthomas.nhs.uk/our-services/community-assistive-communication-service/overview.aspx) 
+- Nellie – [Dame Hannah Rogers School](www.discoverhannahs.org/) 
+- Polly Wingate-Saul – [Bristol CAS](https://www.nbt.nhs.uk/bristol-centre-enablement/services-at-centre/bristol-communication-aid-service)
+- Gerard Cullen [Royal Hospital for Neurodisability COMPASS](https://www.rhn.org.uk/what-makes-us-special/services/compass/)
