@@ -14,3 +14,8 @@ To open document properties, click the ‘File’ tab in Microsoft® Word, and c
 
 ![WOrd document properties screenshot](https://raw.githubusercontent.com/ACECentre/MAT-doc/master/files/word-doc-properties-screenshot.png)
 
+[![Word full document properties screenshot][1]][1]
+
+  
+
+
