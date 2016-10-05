@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An introduction to MAT-doc.
+title: An introduction to MAT-doc
 ---
 
 The Mounting Assistive Technology Documentation (MAT-DOC) helps those involved with providing assistive technology to ensure it can be used effectively in a range of environments and contexts to meet the lifestyle needs of the user.
