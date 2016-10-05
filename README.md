@@ -26,4 +26,4 @@ The MAT-doc working party consisted of :
 - Meike Currie – [Kings Rehabilitation Centre](http://www.guysandstthomas.nhs.uk/our-services/community-assistive-communication-service/overview.aspx) 
 - Nellie – [Dame Hannah Rogers School](www.discoverhannahs.org/) 
 - Polly Wingate-Saul – [Bristol CAS](https://www.nbt.nhs.uk/bristol-centre-enablement/services-at-centre/bristol-communication-aid-service)
-- Gerard Cullen [Royal Hospital for Neurodisability COMPASS](https://www.rhn.org.uk/what-makes-us-special/services/compass/)
+- Gerard Cullen - [Royal Hospital for Neurodisability COMPASS](https://www.rhn.org.uk/what-makes-us-special/services/compass/)
