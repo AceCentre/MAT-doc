@@ -23,10 +23,10 @@ This is an open source project which means we're hoping for a collaborative appr
 
 Or individual files:
 
-* [Usage-instructions](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Usage%20Notes.doc)
-* [Long-Form](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Long%20Form.doc)
-* [Short-Form](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Short%20Form.doc)
-* [Safety-Information](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Safety%20Information.doc)
+* [Usage-instructions](https://github.com/ACECentre/MAT-doc/raw/master/MAT-DOC%20Usage%20Notes.doc)
+* [Long-Form](https://github.com/ACECentre/MAT-doc/blob/raw/MAT-DOC%20Long%20Form.doc)
+* [Short-Form](https://github.com/ACECentre/MAT-doc/raw/master/MAT-DOC%20Short%20Form.doc)
+* [Safety-Information](https://github.com/ACECentre/MAT-doc/raw/master/MAT-DOC%20Safety%20Information.doc)
 
 
 ### Acknowledgements
