@@ -11,18 +11,25 @@ MAT-doc also includes Best Practice Guidelines which have been developed by a te
 
 The documents have been developed from the WRAMP documentation that has been in use for a number of years.
 
-This is an open source project which means we're hoping for a collaborative approach to further development! To help, [submit a new issue on GitHub](https://github.com/ACECentre/MAT-doc/issues/new)  or [tell us about it on Twitter](https://twitter.com/search?q=%23matdoc). Of course you'll need to have registered with either of those - if you're not you can just get in touch with us - see the list below of those involved.
+### Feedback
 
-Above all, please remember that these guidelines are intended to promote and facilitate independence and participation and not as a mechanism to find barriers to provision of equipment.
+This is an open source project which means we're hoping for a collaborative approach to further development. Although we have released this publicly we are *more* than aware there are some issues. We want *YOUR* feedback to improve this for version 1.5. To help, [submit a new issue on GitHub](https://github.com/ACECentre/MAT-doc/issues/new), [tell us about it on Twitter](https://twitter.com/search?q=%23matdoc), or [feedback using this form](https://goo.gl/forms/emWKh5RlGG5a4ha33).
+
+*Above all, please remember that these guidelines are intended to promote and facilitate independence and participation and not as a mechanism to find barriers to provision of equipment.*
 
 ### Download
 
 [Download the MAT-doc pack as a Zip file from GitHub](https://github.com/ACECentre/MAT-doc/archive/master.zip)
 
-[Download the files individually from GitHub](https://github.com/ACECentre/MAT-doc)
+Or individual files:
+* [Usage-instructions](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Usage%20Notes.doc)
+* [Long-Form](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Long%20Form.doc)
+* [Short-Form](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Short%20Form.doc)
+* [Safety-Information](https://github.com/ACECentre/MAT-doc/blob/master/MAT-DOC%20Safety%20Information.doc)
 
 
 ### Acknowledgements
+
 
 The MAT-doc working party consisted of :
 
