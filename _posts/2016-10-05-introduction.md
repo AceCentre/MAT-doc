@@ -30,7 +30,6 @@ Or individual files:
 
 ### Acknowledgements
 
-
 The MAT-doc working party consisted of :
 
 - Will Wade – [ACE Centre](http://acecentre.org.uk) 
