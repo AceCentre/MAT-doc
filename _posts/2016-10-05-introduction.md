@@ -11,7 +11,7 @@ MAT-doc also includes Best Practice Guidelines which have been developed by a te
 
 The documents have been developed from the WRAMP documentation that has been in use for a number of years.
 
-### Feedback
+### Feedback
 
 This is an open source project which means we're hoping for a collaborative approach to further development. Although we have released this publicly we are *more* than aware there are some issues. We want *YOUR* feedback to improve this for version 1.5. To help, [submit a new issue on GitHub](https://github.com/ACECentre/MAT-doc/issues/new), [tell us about it on Twitter](https://twitter.com/search?q=%23matdoc), or [feedback using this form](https://goo.gl/forms/emWKh5RlGG5a4ha33).
 
